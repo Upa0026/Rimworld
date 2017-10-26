@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HookupSucceeded.rulePack.rulesStrings.0>送秋波-> 和 [recipient_nameShortDef] 勾搭在一起</HookupSucceeded.rulePack.rulesStrings.0>
+    <HookupFailed.rulePack.rulesStrings.0>送秋波-> 没能勾搭上 [recipient_nameShortDef] </HookupFailed.rulePack.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RomanceAttempt.label>表白</RomanceAttempt.label>
+    <RomanceAttempt.logRulesInitiator.rulesStrings.0>向 [other_nameShortIndef] 表白</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+    <RomanceAttempt.logRulesRecipient.rulesStrings.0>被 [other_nameShortIndef] 表白了</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+    <TriedHookupWith.label>勾搭</TriedHookupWith.label>
+    <TriedHookupWith.logRulesInitiator.rulesStrings.0> 尝试勾搭 [other_nameShortIndef] </TriedHookupWith.logRulesInitiator.rulesStrings.0>
+    <TriedHookupWith.logRulesRecipient.rulesStrings.0> 被 [other_nameShortIndef] 勾搭上了</TriedHookupWith.logRulesRecipient.rulesStrings.0>
+</LanguageData>

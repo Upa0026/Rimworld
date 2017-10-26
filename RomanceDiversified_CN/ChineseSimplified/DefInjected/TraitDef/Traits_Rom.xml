@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Straight.degreeDatas.0.label>异性恋</Straight.degreeDatas.0.label>
+    <Straight.degreeDatas.0.description>NAME 喜欢异性。</Straight.degreeDatas.0.description>
+    <Bisexual.degreeDatas.0.label>双性恋</Bisexual.degreeDatas.0.label>
+    <Bisexual.degreeDatas.0.description>NAME 是一个双性恋。</Bisexual.degreeDatas.0.description>
+    <Asexual.degreeDatas.0.label>性冷淡</Asexual.degreeDatas.0.label>
+    <Asexual.degreeDatas.0.description>NAME 对于那种事情提不起兴趣</Asexual.degreeDatas.0.description>
+    <Faithful.degreeDatas.0.label>忠贞</Faithful.degreeDatas.0.label>
+    <Faithful.degreeDatas.0.description>即使关系破裂，NAME 也不会背叛另一半</Faithful.degreeDatas.0.description>
+    <Philanderer.degreeDatas.0.label>花花公子</Philanderer.degreeDatas.0.label>
+    <Philanderer.degreeDatas.0.description>NAME 无法忠诚于单一的伴侣</Philanderer.degreeDatas.0.description>
+    <Polyamorous.degreeDatas.0.label>滥交</Polyamorous.degreeDatas.0.label>
+    <Polyamorous.degreeDatas.0.description>NAME 热衷于多角恋</Polyamorous.degreeDatas.0.description>
+
+</LanguageData>

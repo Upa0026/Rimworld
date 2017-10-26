@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Disfigured.stages.0.label>毁容</Disfigured.stages.0.label>
+    <Ugly.stages.0.label>丑</Ugly.stages.0.label>
+    <Ugly.stages.1.label>非常丑</Ugly.stages.1.label>
+    <AnnoyingVoice.stages.0.label>说话声音太难听</AnnoyingVoice.stages.0.label>
+    <CreepyBreathing.stages.0.label>喘气发出奇怪的声音</CreepyBreathing.stages.0.label>
+    <DisfiguredAmeliorated.stages.0.label>破相</DisfiguredAmeliorated.stages.0.label>
+    <UglyAmeliorated.stages.0.label>长得难看</UglyAmeliorated.stages.0.label>
+    <UglyAmeliorated.stages.1.label>长得吓人</UglyAmeliorated.stages.1.label>
+    <AnnoyingVoiceAmeliorated.stages.0.label>说话声有点尖</AnnoyingVoiceAmeliorated.stages.0.label>
+    <CreepyBreathingAmeliorated.stages.0.label>喘气发出声音</CreepyBreathingAmeliorated.stages.0.label>
+</LanguageData>
