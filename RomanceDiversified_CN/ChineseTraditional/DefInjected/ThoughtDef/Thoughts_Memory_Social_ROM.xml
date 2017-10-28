@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <FeelingHarassed.stages.0.label>總有人騷擾我</FeelingHarassed.stages.0.label>
+    <FeelingHarassed.stages.0.description>能不能讓我平靜的待一天，我不喜歡總拒絕別人</FeelingHarassed.stages.0.description>
+    <RebuffedMyHookupAttempt.stages.0.label>被拒絕了</RebuffedMyHookupAttempt.stages.0.label>
+    <RebuffedMyHookupAttemptMood.stages.0.label>我被拒絕了 {0}</RebuffedMyHookupAttemptMood.stages.0.label>
+    <RebuffedMyHookupAttemptMood.stages.0.description>WTF？難道我不好看麼？</RebuffedMyHookupAttemptMood.stages.0.description>
+    <FailedHookupAttemptOnMe.stages.0.label>我沒能勾搭上</FailedHookupAttemptOnMe.stages.0.label>
+</LanguageData>
